@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="78042517-21b3-4be8-9da0-ecf5ad296905" name="Changes" comment="add test download try">
-      <change afterPath="$PROJECT_DIR$/src/test/resources/PDF/junit-user-guide-5.8.2.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/guruqa/SelenideDownloadTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/guruqa/SelenideDownloadTest.java" afterDir="false" />
-    </list>
+    <list default="true" id="78042517-21b3-4be8-9da0-ecf5ad296905" name="Changes" comment="add test download try" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -96,7 +91,14 @@
       <option name="project" value="LOCAL" />
       <updated>1650977451751</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="add test download try">
+      <created>1650982088526</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1650982088526</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
